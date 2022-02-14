@@ -15,8 +15,22 @@ p {
   width: 100%;
 }
 
+.border {
+  border: 1px solid black;
+}
+
 .table {
   color: blue;
   font-size: medium;
   font-family: Times, serif;
+}
+
+.lado-esquerdo {
+  float: left;
+  width: 60%
+}
+
+.lado-direito {
+  float: right;
+  width: 35%;
 }
