@@ -1,8 +1,18 @@
 * {
   background-color: rgb(253, 251, 251);
+  margin: 1.5rem;
 }
 
 #cabecalho {
+  border: 1px solid black;
+  padding: 0.4rem;
   position: fixed;
   top: 0;
+  width: 100%;
+}
+
+.table {
+  color: blue;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
 }
